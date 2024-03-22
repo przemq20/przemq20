@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Scala developer at Comarch<br>🌱 Computer Science Gradiate at AGH UST
+🔭 Scala developer at Comarch<br>🌱 Computer Science Graduate at AGH UST
 
 
 ## 🌐 Socials:
